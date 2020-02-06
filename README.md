@@ -6,8 +6,11 @@ The source repository for the class materials annotated here can be found in [`a
 
 * [Canvas](https://canvas.ubc.ca/courses/36665)
 * [Online Lectures](http://www.ocgy.ubc.ca/~william/EOSC510/)
+* [Course Materials](#course-materials)
 
-### Outline
+<br />
+
+### Course Materials
 
 #### Multiple Linear Regression (MLR)
 
@@ -27,3 +30,6 @@ The source repository for the class materials annotated here can be found in [`a
 * [Tutorial 5: Rotated PCA (RPCA)](Tutorial5/Tutorial5_RPCA.ipynb)
 * [Tutorial 5.1: CCA on Synthetic Data](Tutorial5/Tutorial5_CCA_synthetic.ipynb)
 * [Tutorial 5.2: CCA on SST and SLP data](Tutorial5/Tutorial5_CCA_synthetic.ipynb)
+* [Quiz 4 Solutions: Canonical Correspondence Analysis (CCA)](Lab5/Lab5_QuizQuestion_SOLUTIONS.ipynb)
+* [Lab 5: PCA and CCA on SST data](Lab5/Lab5_2019_SOLUTIONS.ipynb)
+
