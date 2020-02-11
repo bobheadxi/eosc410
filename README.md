@@ -33,3 +33,6 @@ The source repository for the class materials annotated here can be found in [`a
 * [Quiz 4 Solutions: Canonical Correspondence Analysis (CCA)](Lab5/Lab5_QuizQuestion_SOLUTIONS.ipynb)
 * [Lab 5: PCA and CCA on SST data](Lab5/Lab5_2019_SOLUTIONS.ipynb)
 
+#### Singular Spectrum Analysis (SSA)
+
+* [Tutorial 5: Intro to SSA](Tutorial6/Tutorial6_2019.ipynb)
