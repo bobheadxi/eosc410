@@ -35,4 +35,11 @@ The source repository for the class materials annotated here can be found in [`a
 
 #### Singular Spectrum Analysis (SSA)
 
-* [Tutorial 5: Intro to SSA](Tutorial6/Tutorial6_2019.ipynb)
+* [Tutorial 6: Intro to SSA](Tutorial6/Tutorial6_2019.ipynb)
+* [Lab 6: Faces](Lab6/Lab6_2019_SOLUTIONS.ipynb) TODO(@bobheadxi)
+* [Tutorial 7.1: SSA](Tutorial7/Tutorial7_SSA.ipynb) TODO(@bobheadxi)
+* [Tutorial 7.2: FSA](Tutorial7/Tutorial7_FSA.ipynb) TODO(@bobheadxi)
+
+#### Clustering and Classification
+
+* [Tutorial 8: kNN, k-Means, Hierarchical Clustering](Tutorial8/Tutorial8_2019.ipynb)
