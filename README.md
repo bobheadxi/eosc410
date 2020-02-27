@@ -43,3 +43,4 @@ The source repository for the class materials annotated here can be found in [`a
 #### Clustering and Classification
 
 * [Tutorial 8: kNN, k-Means, Hierarchical Clustering](Tutorial8/Tutorial8_2019.ipynb)
+* [Lab 8: Clustering with Volcano Seismic Spectra](Lab8/Lab8_2019_SOLUTIONS.ipynb) TODO(@bobheadxi)
